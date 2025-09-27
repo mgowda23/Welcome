@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mithun
 - 👀 I’m interested in Collaborative learning
-- 🌱 I’m currently pursuing master in CS learing skills related to ML,AI and database
+- 🌱 I’m currently pursuing master in Computer Science learing skills related to ML,AI and database. Also have intrest towards game development.
 - 😄 Pronouns: he/him
 
 <!---
